@@ -1,0 +1,27 @@
+body{
+  background-color: #9C83FF;
+}
+
+h1 {
+  color: #FFCEA6;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.container-fliud {
+  margin: auto;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: #FFCEA6;
+    border-top-width: medium;
+}
+
+/* link styling */
+a:link, a:visited, a:active {
+    color: #6049B2;
+}
+a:hover {
+    color: #9C83FF;
+}
