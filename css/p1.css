@@ -9,14 +9,12 @@ h1 {
   font-weight: 500;
 }
 
+/* centers all items in the container-fluid class */
 .container-fliud {
   margin: auto;
 }
 
-.panel-default>.panel-heading {
- 
-}
-
+/* accordion menu styling */
 #accordion {
   margin-top: 20px;
   width: 300px;
